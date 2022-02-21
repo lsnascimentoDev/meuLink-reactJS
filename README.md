@@ -41,7 +41,7 @@ O consumo da api Bitly é realizado pelo Axios.
 ```bash
 
 # Clonar o repositório
-$ git clone https://github.com/lsnascimentoDev/meuLink.git
+$ git clone https://github.com/lsnascimentoDev/meuLink-reactJS.git
 
 # Entrar no diretório
 $ cd meulink
